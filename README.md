@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h1 style="display: inline-block">"Hello World!"</h1></summary>
 </div>
-###
+
 <!-- Presentation -->
 <p>
   Hi 👋, I'm Pedro! A passionate Dev student from Brazil.
