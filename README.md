@@ -10,7 +10,7 @@
   Hi 👋, I'm Pedro! A passionate Dev student from Brazil.
 
   - 🌱 I’m currently studying Systems Analysis and Development at Senac 
-  - 🔭 I'm looking for my first tech job. My dream is to work with software development and data analysis. 
+  - 🔭 I'm looking for my first tech job. My dream is to work with data analysis. 
 </p>
 
 <!-- Dropdown -->
