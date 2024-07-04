@@ -10,14 +10,14 @@
   Hi 👋, I'm Pedro! A passionate Dev student from Brazil.
 
   - 🌱 I’m currently studying Systems Analysis and Development at Senac 
-  - 🔭 I'm looking for my first tech job. My dream is to work with data analysis. 
+  - 🔭 I'm looking for my first tech job. My dream is to work with back-end developer. 
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 23 years old, currently living in Brazil. I have experience with SQL, Python, Data Analysis, Data visualization, Machine Learning, JavaScript and C#.
+  - 💬 I am 23 years old, currently living in Brazil. I have experience with SQL, Python, Data Analysis, MySQL, MongoDB, Machine Learning, C# and Js.
 
   - ⚡ I like to read, whether it's a good book, or comics, as well as watching movies, playing games, and producing music! I believe that our personal interests contribute to a more refined perception of things and to problem solving. \o/
 </details>
