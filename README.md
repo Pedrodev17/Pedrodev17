@@ -32,6 +32,8 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Python, Django, SQLite - Sistema de Cadastro](https://github.com/Pedrodev17/Sistema-de-Cadastro-Python-)
+- [Python, MySQL - CRUD](https://github.com/Pedrodev17/CRUD-Python-MySQL-)
 - [HTML, CSS, JS - Landing Page](https://github.com/Pedrodev17/My-first-site)
 - [Python - Task Automation](https://github.com/Pedrodev17/first-automation)
 - [Azure - Analytics and testing with Azure Machine-Learning](https://github.com/Pedrodev17/Lab_Azure_ai900_Dio)
