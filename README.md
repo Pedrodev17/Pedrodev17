@@ -9,7 +9,7 @@
 <p>
   Hi 👋, I'm Pedro! A passionate Dev student from Brazil.
 
-  - 🌱 I’m currently studying Systems Analysis and Development at Senac 
+  - 🌱 I’m currently studying Systems Analysis and Development.
   - 🔭 I'm looking for my first tech job. My dream is to work with back-end developer. 
 </p>
 
