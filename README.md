@@ -32,6 +32,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Java - Gerador de Resumo](https://github.com/Pedrodev17/Gerador-de-resumo-java)
 - [Python, Django, SQLite - Sistema de Cadastro](https://github.com/Pedrodev17/Sistema-de-Cadastro-Python-)
 - [Python, MySQL - CRUD](https://github.com/Pedrodev17/CRUD-Python-MySQL-)
 - [HTML, CSS, JS - Landing Page](https://github.com/Pedrodev17/My-first-site)
