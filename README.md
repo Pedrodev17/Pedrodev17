@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+###
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
@@ -28,10 +31,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-silva17/)
 
 <!-- GithubStats -->
-![Pedrodev17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrodev17&show_icons=true&theme=dracula)
+![Pedrodev17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrodev17&show_icons=true&theme=dracula) 
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrodev17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
 
 <!-- Portfolio -->
 ## Portfolio:
+- [Java - Chess Game ](https://github.com/Pedrodev17/ChessGame)
 - [Java - Gerador de Resumo](https://github.com/Pedrodev17/Gerador-de-resumo-java)
 - [Python, Django, SQLite - Sistema de Cadastro](https://github.com/Pedrodev17/Sistema-de-Cadastro-Python-)
 - [Python, MySQL - CRUD](https://github.com/Pedrodev17/CRUD-Python-MySQL-)
@@ -96,3 +104,4 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
   </div>
+  
