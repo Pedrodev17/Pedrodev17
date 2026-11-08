@@ -18,7 +18,7 @@
 ### 🛡️ Sobre mim
 
 - 🔐 Em transição de **desenvolvimento de software** para **Cybersecurity**
-- 🎯 Foco: **Red Team** e **Security Analyst / SOC**
+- 🎯 Foco: **Red Team** e **Security Analyst / Pentester**
 - ✅ **Google Cybersecurity Professional Certificate**
 - 🔭 Atualmente estudando para a certificação **eJPT**
 - 🧠 Background técnico em dev (Java, Python, Spring Boot) — hoje usado pra entender sistemas antes de tentar quebrá-los
