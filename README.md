@@ -1,107 +1,87 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00FF41&height=220&section=header&text=Pedro%20Henrique&fontSize=45&fontColor=00FF41&animation=fadeIn&fontAlignY=35&desc=Breaking%20things%20to%20understand%20how%20to%20defend%20them&descAlignY=55&descSize=18" width="100%"/>
+
+<a href="https://github.com/Pedrodev17">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=whoami+%3E+aspiring+Red+Teamer;Ex-dev+%7C+Now+breaking+into+cyber;eJPT+in+progress+%F0%9F%94%93;Google+Cybersecurity+Cert+%E2%9C%85" alt="Typing SVG" />
+</a>
+
 </div>
 
-<!--título-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">"Hello World!"</h1></summary>
-</div>
+<br>
 
-<!-- Presentation -->
-<p>
-  Hi 👋, I'm Pedro! A passionate Dev student from Brazil.
+```bash
+┌──(pedro@kali)-[~]
+└─$ whoami --role "SecAnalyst/RedTeam" --status "learning"
+```
 
-  - 🌱 I’m currently studying Systems Analysis and Development.
-  - 🔭 I'm looking for my first tech job. My dream is to work with back-end developer. 
-</p>
+### 🛡️ Sobre mim
 
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
+- 🔐 Em transição de **desenvolvimento de software** para **Cybersecurity**
+- 🎯 Foco: **Red Team** e **Security Analyst / SOC**
+- ✅ **Google Cybersecurity Professional Certificate**
+- 🔭 Atualmente estudando para a certificação **eJPT**
+- 🧠 Background técnico em dev (Java, Python, Spring Boot) — hoje usado pra entender sistemas antes de tentar quebrá-los
+- 📍 Brasil
 
-  - 💬 I am 23 years old, currently living in Brazil. I have experience with SQL, Python, Data Analysis, MySQL, MongoDB, Machine Learning, C# and Js.
+---
 
-  - ⚡ I like to read, whether it's a good book, or comics, as well as watching movies, playing games, and producing music! I believe that our personal interests contribute to a more refined perception of things and to problem solving. \o/
-</details>
+### 🧰 Arsenal
 
-<!-- Links -->
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1715264094)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@phbeatz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-da-silva17/)
-
-<!-- GithubStats -->
-![Pedrodev17 GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedrodev17&show_icons=true&theme=dracula) 
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pedrodev17&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
-</div>
-
-<!-- Portfolio -->
-## Portfolio:
-- [Java - Chess Game ](https://github.com/Pedrodev17/ChessGame)
-- [Java - Gerador de Resumo](https://github.com/Pedrodev17/Gerador-de-resumo-java)
-- [Python, Django, SQLite - Sistema de Cadastro](https://github.com/Pedrodev17/Sistema-de-Cadastro-Python-)
-- [Python, MySQL - CRUD](https://github.com/Pedrodev17/CRUD-Python-MySQL-)
-- [HTML, CSS, JS - Landing Page](https://github.com/Pedrodev17/My-first-site)
-- [Python - Task Automation](https://github.com/Pedrodev17/first-automation)
-- [Azure - Analytics and testing with Azure Machine-Learning](https://github.com/Pedrodev17/Lab_Azure_ai900_Dio)
-- [Azure - Collecting data from images with Azure Vision](https://github.com/Pedrodev17/Lab_Azure_Vision)
-
-<!-- GIF -->
 <p align="left">
-  <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Wireshark-000000?style=for-the-badge&logo=wireshark&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-000000?style=for-the-badge&logo=burpsuite&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
 </p>
 
-## 🔥 Skills
-<!-- Skills: Programming Languages -->
-<div style="flex-basis: 48%;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
- </div>
+---
 
+### 📂 Projetos em destaque
 
-  ## 🔥 Tools
-  <!-- Skills: Tools & Frameworks -->
-   <div style="flex-basis: 48%;">
-    <h3></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  </div>
+<table>
+<tr>
+<td width="50%">
 
-  
-  ## 🔥 Libraries
-  <!-- Skills: Libraries -->
-  <div style="flex-basis: 48%;">
-    <h3></h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angular logo" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  />
-  </div>
-  
+**[🛡️ Cybersecurity Portfolio](https://github.com/Pedrodev17/cybersecurity-portfolio)**
+Exercícios práticos em Incident Response, Risk Management, Access Control e SQL para investigação de segurança (NIST, CVSS, IAM, LGPD/GDPR).
+
+</td>
+<td width="50%">
+
+**🎯 eJPT — Prep Notes** *(em breve)*
+Anotações e labs de estudo para a certificação eJPT — reconhecimento, exploração, pivoting e pós-exploração.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pedrodev17&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=c9d1d9" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedrodev17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" width="40%" />
+
+<img src="https://streak-stats.demolab.com?user=Pedrodev17&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+
+</div>
+
+---
+
+### 📬 Contato
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/pedro-henrique-da-silva17/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" /></a>
+  <a href="mailto:pedrobhr7@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=00FF41" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:000000&height=100&section=footer" width="100%"/>
